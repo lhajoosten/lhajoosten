@@ -21,9 +21,9 @@
 
 🔹 [Algorithms C#](https://github.com/lhajoosten/Algorithms-and-Datastructures) – Learning repo with tests
 
-🔹 [CRUD-Api](https://github.com/lhajoosten/RESTful-CRUD-Api) – Final project of the last module of 'Programming' during the propeduetic phase
+🔹 [CRUD-Api](https://github.com/lhajoosten/RESTful-CRUD-Api) – Final project of the last module of 'Programming' during the propeduetic phase - good old REST-ful way without mediator pattern
 
-🔹 [Mobile Employee App](https://github.com/lhajoosten/Employee-Mobile-App) – Built with Nativescript Vue for hour registrations
+🔹 [Mobile Employee App 2.0](https://github.com/lhajoosten/Employee-Mobile-App) – Originally built with Nativescript-Vue, rewritten in Angular using Ionic framework
 
 ---
 
