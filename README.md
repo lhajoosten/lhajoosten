@@ -13,15 +13,15 @@
 - 🧪 xUnit, Jest, FluentValidation
 
 ## 🛠️ Highlighted Projects
-🔹 [Studdit 2.0](https://github.com/lhajoosten/Studdit) – Q&A platform with voting & JWT auth (second year school project)
+🔹 [Studdit 2.0](https://github.com/lhajoosten/Studdit-2.0) – Q&A platform with voting & JWT auth (second year school project)
 
-🔹 [MeetMe](https://github.com/lhajoosen/MeetMe) – Meetup platform to host events (schoolproject)
+🔹 [MeetMe](https://github.com/lhajoosen/MeetMe-2.0) – Meetup platform to host events (schoolproject)
 
-🔹 [Design-Patterns C#](https://github.com/lhajoosten/C#-Design-Patterns) – Learning repo with real use implementations  
+🔹 [Design-Patterns C#](https://github.com/lhajoosten/Design-Patterns) – Learning repo with real use implementations  
 
-🔹 [Algorithms C#](https://github.com/lhajoosten/C#-Algorithm-and-Datastructures) – Learning repo with tests
+🔹 [Algorithms C#](https://github.com/lhajoosten/Algorithms-and-Datastructures) – Learning repo with tests
 
-🔹 [CRUD-Api](https://github.com/lhajoosten/CRUD-Api-Programming-4) – Final project of the last module of 'Programming' during the propeduetic phase
+🔹 [CRUD-Api](https://github.com/lhajoosten/RESTful-CRUD-Api) – Final project of the last module of 'Programming' during the propeduetic phase
 
 🔹 [Mobile Employee App](https://github.com/lhajoosten/Employee-Mobile-App) – Built with Nativescript Vue for hour registrations
 
