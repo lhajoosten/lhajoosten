@@ -13,7 +13,7 @@
 - 🧪 xUnit, Jest, FluentValidation
 
 ## 🛠️ Highlighted Projects
-🔹 [Studdit 2.0](https://github.com/lhajoosten/Studdit-2.0) – Q&A platform with voting & JWT auth (version 2, renewed based on version 1 Node.js schoolproject part 3 of the programming module first year of bachelor)
+🔹 [Studdit 2.0](https://github.com/lhajoosten/Studdit-2.0) – Q&A platform with voting & JWT auth (version 2, renewed based on version 1 Node.js)
 
 🔹 [MeetMe 2.0](https://github.com/lhajoosten/MeetMe-2.0) – Meetup platform to host events (version 2, renewed based on version 1 Vue.js schoolproject client-side programming)
 
