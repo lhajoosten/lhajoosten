@@ -17,14 +17,13 @@
 
 🔹 [MeetMe 2.0](https://github.com/lhajoosten/MeetMe-2.0) – Meetup platform to host events (version 2, renewed based on version 1 Vue.js schoolproject client-side programming)
 
-🔹 [Design-Patterns C#](https://github.com/lhajoosten/Design-Patterns) – Learning repo with real use implementations  
-
-🔹 [Algorithms C#](https://github.com/lhajoosten/Algorithms-and-Datastructures) – Learning repo with tests
+🔹 [Mobile Employee App 2.0](https://github.com/lhajoosten/Employee-Mobile-App) – Originally built with Nativescript-Vue, rewritten in Angular using Ionic framework
 
 🔹 [CRUD-Api](https://github.com/lhajoosten/RESTful-CRUD-Api) – Final project of the last module of 'Programming' during the propeduetic phase - good old REST-ful way without mediator pattern
 
-🔹 [Mobile Employee App 2.0](https://github.com/lhajoosten/Employee-Mobile-App) – Originally built with Nativescript-Vue, rewritten in Angular using Ionic framework
+🔹 [Design-Patterns C#](https://github.com/lhajoosten/Design-Patterns) – Learning repo with real use implementations  
 
+🔹 [Algorithms C#](https://github.com/lhajoosten/Algorithms-and-Datastructures) – Learning repo with tests
 ---
 
 Let’s build something great! 🚀  
