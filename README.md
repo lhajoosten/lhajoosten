@@ -15,7 +15,7 @@
 ## 🛠️ Highlighted Projects
 🔹 [Studdit 2.0](https://github.com/lhajoosten/Studdit-2.0) – Q&A platform with voting & JWT auth (second year school project)
 
-🔹 [MeetMe](https://github.com/lhajoosen/MeetMe-2.0) – Meetup platform to host events (schoolproject)
+🔹 [MeetMe](https://github.com/lhajoosten/MeetMe-2.0) – Meetup platform to host events (schoolproject)
 
 🔹 [Design-Patterns C#](https://github.com/lhajoosten/Design-Patterns) – Learning repo with real use implementations  
 
