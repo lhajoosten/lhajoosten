@@ -14,9 +14,16 @@
 
 ## 🛠️ Highlighted Projects
 🔹 [Studdit 2.0](https://github.com/lhajoosten/Studdit) – Q&A platform with voting & JWT auth (second year school project)
+
 🔹 [MeetMe](https://github.com/lhajoosen/MeetMe) – Meetup platform to host events (schoolproject)
-🔹 [Pipeline-Pro](https://github.com/lhajoosten/C#-Design-Patterns) – Learning repo with real use implementations  
+
+🔹 [Design-Patterns C#](https://github.com/lhajoosten/C#-Design-Patterns) – Learning repo with real use implementations  
+
 🔹 [Algorithms C#](https://github.com/lhajoosten/C#-Algorithm-and-Datastructures) – Learning repo with tests
+
+🔹 [CRUD-Api](https://github.com/lhajoosten/CRUD-Api-Programming-4) – Final project of the last module of 'Programming' during the propeduetic phase
+
+🔹 [Mobile Employee App](https://github.com/lhajoosten/Employee-Mobile-App) – Built with Nativescript Vue for hour registrations
 
 ---
 
