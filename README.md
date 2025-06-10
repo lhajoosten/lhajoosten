@@ -12,7 +12,7 @@
 - 🧱 SQL Server, Docker, GitHub Actions
 - 🧪 xUnit, Jest, FluentValidation
 
-## 🛠️ Highlighted Projects (rewriting legacy projects from my bachelor study)
+## 🛠️ Highlighted Projects (legacy projects from bachelor study)
 🔹 [Studdit 2.0](https://github.com/lhajoosten/Studdit-2.0) – Q&A platform with voting & JWT auth (version 2, renewed based on version 1 Node.js)
 
 🔹 [MeetMe 2.0](https://github.com/lhajoosten/MeetMe-2.0) – Meetup platform to host events (version 2, renewed based on version 1 Vue.js schoolproject client-side programming)
