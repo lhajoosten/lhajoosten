@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luc Joosten
 
-🎓 Software Engineering student from the Netherlands  
+🎓 Junior Software Engineer from the Netherlands  
 💡 Passionate about fullstack development with .NET & Angular  
 🔁 Currently rebuilding legacy school projects to modern, scalable apps  
 📚 Exploring Clean Architecture, CQRS, Domain-Driven Design & more  
