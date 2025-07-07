@@ -6,11 +6,14 @@
 📚 Exploring Clean Architecture, CQRS, Domain-Driven Design & more  
 🎯 On a mission to grow into a solid medior fullstack developer  
 
-## 🧰 Tech Stack
+## 🧰 Modern Focused Tech Stack
 - 💻 .NET Core, C#, EF Core, MediatR, AutoMapper, Ardalis, Domain Driven Design, CQRS
 - 🌐 Angular 19, RxJS, PrimeNG
 - 🧱 SQL Server, Docker, GitHub Actions
 - 🧪 xUnit, Jest, FluentValidation
+
+### To-Do
+Currently relocating old legacy projects into this fresh github repository. Now that I am graduated and I have some extra free time, I will have a look to modernize my old legacy projects who will be among my current public repo's. My legacy projects are prefixed with '--Legacy--'. The goal is to recreate projects that i have implemented some years ago into a fresh repository with a modern technology stack and deeper knowledge of actual solution architecture, design patterns and software design.
 
 ## 🛠️ Highlighted Projects (legacy projects from bachelor study)
 🔹 [Studdit 2.0](https://github.com/lhajoosten/Studdit-2.0) – Q&A platform with voting & JWT auth (version 2, renewed based on version 1 Node.js)
