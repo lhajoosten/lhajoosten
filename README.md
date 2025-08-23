@@ -1,41 +1,52 @@
 # 👋 Hi, I'm Luc Joosten
 
-🎓 Junior Software Engineer from the Netherlands  
-💡 Passionate about fullstack development with .NET & Angular  
-🔁 Currently rebuilding legacy school projects to modern, scalable apps  
-📚 Exploring Clean Architecture, CQRS, Domain-Driven Design & more  
-🎯 On a mission to grow into a solid medior fullstack developer  
+🎓 Software Engineer transitioning into Data Science & AI  
+💡 Passionate about fullstack development, AI agents, and scalable architectures  
+🤖 Currently diving deep into LangChain, MCP, and AI-powered applications  
+📚 Exploring Clean Architecture, CQRS, Domain-Driven Design & Agent-based systems  
+🎯 On a mission to bridge traditional software engineering with modern AI/ML workflows  
 
-## 🧰 Modern Focused Tech Stack
+## 🧰 Current Tech Stack & Learning Focus
+
+### Production Ready
 - 💻 .NET Core, C#, EF Core, MediatR, AutoMapper, Ardalis, Domain Driven Design, CQRS
 - 🌐 Angular 19, RxJS, PrimeNG
 - 🧱 SQL Server, Docker, GitHub Actions
 - 🧪 xUnit, Jest, FluentValidation
 
-### To-Do
-Currently relocating old legacy projects into this fresh github repository. Now that I am graduated and I have some extra free time, I will have a look to modernize my old legacy projects who will be among my current public repo's. My legacy projects are prefixed with '--Legacy--'. The goal is to recreate projects that i have implemented some years ago into a fresh repository with a modern technology stack and deeper knowledge of actual solution architecture, design patterns and software design.
+### Currently Learning (New Role Prep)
+- 🤖 **LangChain** - Agent orchestration and LLM workflow management
+- 🐍 **Python** - FastAPI, async programming, data processing
+- ⚛️ **React** - Modern hooks-based development, state management
+- 🔗 **MCP** - Model Context Protocol for LLM communication
+- 📊 **Data Science** - ML pipelines, vector databases, RAG implementations
 
-## Exploring ideas to build quality based software with AI-intgrations
+## 🚀 AI-Powered Project Explorations
+🔹 [WeatherAI](https://github.com/lhajoosten/WeatherAI) – AI-integrated Weather API + Dashboard
+
 🔹 [ExpenseAI](https://github.com/lhajoosten/ExpenseAI) – AI-powered financial insights that understand your business
 
 🔹 [CodeMentor](https://github.com/lhajoosten/CodeMentor) – Learn to code better through AI-powered mentorship
 
 🔹 [VitalInsights](https://github.com/lhajoosten/VitalInsights) – Your personal health data, amplified by AI
 
-## 🛠️ Highlighted Projects (legacy projects from bachelor study)
-🔹 [Studdit 2.0](https://github.com/lhajoosten/Studdit-2.0) – Q&A platform with voting & JWT auth (version 2, renewed based on version 1 Node.js)
+## 🛠️ Featured Fullstack Projects
+🔹 [Studdit 2.0](https://github.com/lhajoosten/Studdit-2.0) – Q&A platform with voting & JWT auth (Modern .NET architecture)
 
-🔹 [MeetMe 2.0](https://github.com/lhajoosten/MeetMe-2.0) – Meetup platform to host events (version 2, renewed based on version 1 Vue.js schoolproject client-side programming)
+🔹 [MeetMe 2.0](https://github.com/lhajoosten/MeetMe-2.0) – Event hosting platform with real-time features
 
-🔹 [Mobile Employee App 2.0](https://github.com/lhajoosten/Employee-Mobile-App) – Originally built with Nativescript-Vue, rewritten in Angular using Ionic framework
+🔹 [Mobile Employee App 2.0](https://github.com/lhajoosten/Employee-Mobile-App) – Cross-platform mobile app built with Ionic + Angular
 
-🔹 [CRUD-Api](https://github.com/lhajoosten/RESTful-CRUD-Api) – Final project of the last module of 'Programming' during the propeduetic phase - REST-ful without mediator pattern
+🔹 [RESTful CRUD API](https://github.com/lhajoosten/RESTful-CRUD-Api) – Clean architecture API with comprehensive testing
 
-🔹 [Design-Patterns C#](https://github.com/lhajoosten/Design-Patterns) – Learning repo with real use implementations  
+## 📚 Learning & Reference Repositories
+🔹 [Design Patterns C#](https://github.com/lhajoosten/Design-Patterns) – Real-world implementation examples
 
-🔹 [Algorithms C#](https://github.com/lhajoosten/Algorithms-and-Datastructures) – Learning repo with tests
+🔹 [Algorithms & Data Structures](https://github.com/lhajoosten/Algorithms-and-Datastructures) – Computer science fundamentals with tests
+
+## 🔄 Current Mission
+Modernizing legacy projects while building expertise in AI/ML systems. All legacy projects (prefixed with '--Legacy--') are being rebuilt with contemporary architecture patterns, better testing strategies, and integration with modern AI capabilities.
 
 ---
 
-Let’s build something great! 🚀  
-📬 Reach out or follow my journey here on GitHub.
+💼 **Starting a new Full Stack Development role within a Data Science Team in September 2025 at [Crowe Foederer](https://www.foederer.nl)** - excited to bring software engineering best practices to ML workflows and agent-based systems!
