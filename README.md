@@ -21,14 +21,8 @@
 - 🔗 **MCP** - Model Context Protocol for LLM communication
 - 📊 **Data Science** - ML pipelines, vector databases, RAG implementations
 
-## 🚀 AI-Powered Project Explorations
+## 🚀 AI-Powered Project Explorations with Github Copilot
 🔹 [WeatherAI](https://github.com/lhajoosten/WeatherAI) – AI-integrated Weather API + Dashboard
-
-🔹 [ExpenseAI](https://github.com/lhajoosten/ExpenseAI) – AI-powered financial insights that understand your business
-
-🔹 [CodeMentor](https://github.com/lhajoosten/CodeMentor) – Learn to code better through AI-powered mentorship
-
-🔹 [VitalInsights](https://github.com/lhajoosten/VitalInsights) – Your personal health data, amplified by AI
 
 ## 🛠️ Featured Fullstack Projects
 🔹 [Studdit 2.0](https://github.com/lhajoosten/Studdit-2.0) – Q&A platform with voting & JWT auth (Modern .NET architecture)
