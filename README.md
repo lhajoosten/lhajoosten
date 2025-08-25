@@ -24,6 +24,8 @@
 ## 🚀 AI-Powered Project Explorations with Github Copilot
 🔹 [WeatherAI](https://github.com/lhajoosten/WeatherAI) – AI-integrated Weather API + Dashboard
 
+🔹 [MoneyMind](https://github.com/lhajoosten/MoneyMind) – AI-powered Personal Finance Insights Dashboard
+
 ## 🛠️ Featured Fullstack Projects
 🔹 [Studdit 2.0](https://github.com/lhajoosten/Studdit-2.0) – Q&A platform with voting & JWT auth (Modern .NET architecture)
 
