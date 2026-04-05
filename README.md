@@ -6,7 +6,7 @@ Building intelligent systems that bridge traditional software engineering with m
 
 ## 🎯 About Me
 - 💼 **Full Stack Developer at Crowe Foederer** — building an AI-powered LLM platform for accountancy and BI automation
-- 🚀 Creator of **[Scrumio](https://scrumio.app)** — AI-powered Product Backlog Item generation via conversational interviews
+- 🚀 Creator of **[Scrumio]([https://scrumio.app](https://polite-ocean-04df8ce03.6.azurestaticapps.net/)** — AI-powered Product Backlog Item generation via conversational interviews
 - 🧠 Passionate about bringing software engineering discipline to AI/ML systems
 
 ---
