@@ -1,12 +1,15 @@
 # 👋 Hi, I'm Luc Joosten
-**Full Stack Software Engineer** specializing in **AI-Powered Applications**  
+**Full Stack Software Engineer** specializing in **AI-Powered Applications** 
 Building intelligent systems that bridge traditional software engineering with modern AI/ML workflows
+
+Graduated in 2025 as Bachelor of Science on Information Technology
 
 ---
 
 ## 🎯 About Me
 - 💼 **Full Stack Developer at Crowe Foederer** — building an AI-powered LLM platform for accountancy and BI automation
 - 🚀 Creator of **[Scrumio](https://polite-ocean-04df8ce03.6.azurestaticapps.net/)** — AI-powered Product Backlog Item generation via conversational interviews
+- 🚀 Working privately on a specialized Pull Request AI-Code-Review Agent for FastAPI/Python and React/Typescript
 - 🧠 Passionate about bringing software engineering discipline to AI/ML systems
 
 ---
@@ -23,26 +26,30 @@ Building intelligent systems that bridge traditional software engineering with m
 
 **Backend**: Python, FastAPI, async/await, Pydantic  
 **AI/ML**: LangChain, LangGraph, Model Context Protocol (MCP), Anthropic Claude  
-**Frontend**: React 19, TypeScript, TanStack (Query, Router, Form)  
+**Frontend**: React 19, TypeScript, TanStack (Query, Router, Form, Table)  
 **Data**: PostgreSQL + pgvector, Vector databases, RAG implementations  
-**DevOps**: Docker, GitHub Actions, Azure (Container Apps, Bicep)
+**DevOps**: Docker, GitHub Actions, Azure (Container Apps, Azure Bicep)
+**Tooling**: Oxlint & Oxfmt | Hey-Api OpenAPI spec generator | Tailwind CSS
+**IDE**: VSCode | Zed | Jetbrains
 
 ### Background
 **.NET Stack**: C#, .NET Core, EF Core, Clean Architecture, CQRS  
-**Frontend**: Angular, RxJS  
+**Frontend**: Angular, RxJS
 **Architecture**: DDD, Event-Driven Systems
+**Data**: Microsoft SQL Server, Data Warehousing, Big Data
+**DevOps**: Github/Gitlab | Azure, CI/CD
+**IDE**: VSCode | Visual Studio
 
 ---
 
 ## 🚀 Featured Project
 
-### **[Scrumio](https://scrumio.app)** 🌟
+### **[Scrumio](https://polite-ocean-04df8ce03.6.azurestaticapps.net/)** 🌟
 An AI-powered tool that interviews Product Owners into complete, well-structured Product Backlog Items — no blank form, just a conversation.
 
 - 🤖 LLM-driven interview workflow replacing traditional PBI forms
-- 🔒 Row-Level Security across PostgreSQL and Microsoft Fabric
-- ☁️ Deployed on Azure with managed identity & service principal auth
-- 📐 Built with FastAPI, React, TanStack, pgvector
+- ☁️ Deployed on Azure with infrastructure as coce
+- 📐 Built with FastAPI, React, TanStack, pgvector, Azure Bicep for infrastructure orchestration
 
 **Stack**: Python, FastAPI, React, TypeScript, PostgreSQL, Azure
 
@@ -55,7 +62,7 @@ An AI-powered tool that interviews Product Owners into complete, well-structured
 - 🎯 AI-900 — Azure AI Fundamentals
 
 **Certifications — Q3/Q4 2026:**
-- 🎯 AZ-204 — Azure Developer Associate
+- 🎯 Ai-200 — AI Cloud Developer Associate
 - 🎯 CKAD — Kubernetes
 
 **Certifications — miscellaneous:**
