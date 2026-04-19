@@ -28,16 +28,22 @@ Graduated in 2025 as Bachelor of Science on Information Technology
 **AI/ML**: LangChain, LangGraph, Model Context Protocol (MCP), Anthropic Claude  
 **Frontend**: React 19, TypeScript, TanStack (Query, Router, Form, Table)  
 **Data**: PostgreSQL + pgvector, Vector databases, RAG implementations  
-**DevOps**: Docker, GitHub Actions, Azure (Container Apps, Azure Bicep)
-**Tooling**: Oxlint & Oxfmt | Hey-Api OpenAPI spec generator | Tailwind CSS
+**DevOps**: Docker, GitHub Actions, Azure (Container Apps, Azure Bicep)  
+**Tooling**: Oxlint & Oxfmt | Hey-Api OpenAPI spec generator | Tailwind CSS  
 **IDE**: VSCode | Zed | Jetbrains
 
 ### Background
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
 **.NET Stack**: C#, .NET Core, EF Core, Clean Architecture, CQRS  
 **Frontend**: Angular, RxJS
-**Architecture**: DDD, Event-Driven Systems
-**Data**: Microsoft SQL Server, Data Warehousing, Big Data
-**DevOps**: Github/Gitlab | Azure, CI/CD
+**Architecture**: DDD, Event-Driven Systems  
+**Data**: Microsoft SQL Server, Data Warehousing, Big Data  
+**DevOps**: Github/Gitlab | Azure, CI/CD  
 **IDE**: VSCode | Visual Studio
 
 ---
