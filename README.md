@@ -8,7 +8,7 @@ Graduated in 2025 as Bachelor of Science on Information Technology
 
 ## 🎯 About Me
 - 💼 **Full Stack Developer at Crowe Foederer** — building an AI-powered LLM platform for accountancy and BI automation
-- 🚀 Creator of **[Scrumio](https://polite-ocean-04df8ce03.6.azurestaticapps.net/)** — AI-powered Product Backlog Item generation via conversational interviews
+- 🚀 Creator of **[AIgile](https://polite-ocean-04df8ce03.6.azurestaticapps.net/)** — AI-powered Product Backlog Item generation via conversational interviews
 - 🚀 Working privately on a specialized Pull Request AI-Code-Review Agent for FastAPI/Python and React/Typescript
 - 🧠 Passionate about bringing software engineering discipline to AI/ML systems
 
@@ -50,7 +50,7 @@ Graduated in 2025 as Bachelor of Science on Information Technology
 
 ## 🚀 Featured Project
 
-### **[Scrumio](https://polite-ocean-04df8ce03.6.azurestaticapps.net/)** 🌟
+### **[AIgile](https://polite-ocean-04df8ce03.6.azurestaticapps.net/)** 🌟
 An AI-powered tool that interviews Product Owners into complete, well-structured Product Backlog Items — no blank form, just a conversation.
 
 - 🤖 LLM-driven interview workflow replacing traditional PBI forms
@@ -69,9 +69,9 @@ An AI-powered tool that interviews Product Owners into complete, well-structured
 
 **Certifications — Q3/Q4 2026:**
 - 🎯 Ai-200 — AI Cloud Developer Associate
-- 🎯 CKAD — Kubernetes
 
 **Certifications — miscellaneous:**
+- 🎯 CKAD — Kubernetes
 - 🎯 AI-102 — Azure AI Engineer Associate
 
 **Focus areas**: Production AI systems, agent orchestration, MCP integration, cloud-native deployments on Kubernetes
