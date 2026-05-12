@@ -8,7 +8,8 @@ Graduated in 2025 as Bachelor of Science on Information Technology
 
 ## 🎯 About Me
 - 💼 **Full Stack Developer at Crowe Foederer** — building an AI-powered LLM platform for accountancy and BI automation
-- 🚀 Creator of **[AIgile](https://polite-ocean-04df8ce03.6.azurestaticapps.net/)** — AI-powered Product Backlog Item generation via conversational interviews
+- 🚀 Creator of **AIgile** — AI-powered Product Backlog Item generation via conversational interviews
+- 🚀 Creator of **Ragvise AI** — AI-powered learning platform using RAG, Embeddings & MCP
 - 🚀 Working privately on a specialized Pull Request AI-Code-Review Agent for FastAPI/Python and React/Typescript
 - 🧠 Passionate about bringing software engineering discipline to AI/ML systems
 
@@ -48,23 +49,10 @@ Graduated in 2025 as Bachelor of Science on Information Technology
 
 ---
 
-## 🚀 Featured Project
-
-### **[AIgile](https://polite-ocean-04df8ce03.6.azurestaticapps.net/)** 🌟
-An AI-powered tool that interviews Product Owners into complete, well-structured Product Backlog Items — no blank form, just a conversation.
-
-- 🤖 LLM-driven interview workflow replacing traditional PBI forms
-- ☁️ Deployed on Azure with infrastructure as coce
-- 📐 Built with FastAPI, React, TanStack, pgvector, Azure Bicep for infrastructure orchestration
-
-**Stack**: Python, FastAPI, React, TypeScript, PostgreSQL, Azure
-
----
-
 ## 📈 2026 Learning Path
 
 **Certifications — Q2 2026:**
-- 🎯 AZ-900 — Azure Fundamentals
+- 🎯 AZ-900 — Azure Fundamentals | DONE 🚀
 - 🎯 AI-900 — Azure AI Fundamentals
 
 **Certifications — Q3/Q4 2026:**
