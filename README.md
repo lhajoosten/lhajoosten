@@ -8,9 +8,8 @@ Graduated in 2025 as Bachelor of Science on Information Technology
 
 ## 🎯 About Me
 - 💼 **Full Stack Developer at Crowe Foederer** — building an AI-powered LLM platform for accountancy and BI automation
-- 🚀 Creator of **AIgile** — AI-powered Product Backlog Item generation via conversational interviews
-- 🚀 Creator of **Ragvise AI** — AI-powered learning platform using RAG, Embeddings & MCP
-- 🚀 Working privately on a specialized Pull Request AI-Code-Review Agent for FastAPI/Python and React/Typescript
+- 🚀 Creator of **RESOLVE** — Workflow based spec-driven development. Turning ambiguity into structured execution
+- 🚀 Creator of **Ragvise AI** — Self-learning platform using AI, ML, RAG, MCP, Agents
 - 🧠 Passionate about bringing software engineering discipline to AI/ML systems
 
 ---
