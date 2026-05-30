@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Luc Joosten
-**Full Stack Software Engineer** specializing in **AI-Powered Applications** 
+**Full-stack Software Engineer** and current learning to become a DevOps Engineer building **AI-Powered Applications**
+
 Building intelligent systems that bridge traditional software engineering with modern AI/ML workflows
 
 Graduated in 2025 as Bachelor of Science on Information Technology
@@ -7,10 +8,11 @@ Graduated in 2025 as Bachelor of Science on Information Technology
 ---
 
 ## 🎯 About Me
-- 💼 **Full Stack Developer at Crowe Foederer** — building an AI-powered LLM platform for accountancy and BI automation
+- 💼 **Full-stack Software Engineer at Crowe Netherlands** — building an AI-powered platform for accountancy and BI automation
 - 🚀 Creator of **RESOLVE** — Workflow based spec-driven development. Turning ambiguity into structured execution
-- 🚀 Creator of **Ragvise AI** — Self-learning platform using AI, ML, RAG, MCP, Agents
-- 🧠 Passionate about bringing software engineering discipline to AI/ML systems
+- 🚀 Creator of **Ragvise AI** — Personal self-learning platfrom with cross-validation of official microsoft documentation using AI, ML, MCP
+- 🚀 Creator of **MESH** — Distributed domain agents that continuously emit structured, confidence-weighted signals
+- 🧠 Passionate about bringing software engineering to a new level
 
 ---
 
@@ -54,12 +56,13 @@ Graduated in 2025 as Bachelor of Science on Information Technology
 - 🎯 AZ-900 — Azure Fundamentals | DONE 🚀
 - 🎯 AI-900 — Azure AI Fundamentals
 
-**Certifications — Q3/Q4 2026:**
-- 🎯 Ai-200 — AI Cloud Developer Associate
+**Certifications — Q4 2026:**
+- 🎯 AI-200 — AI Cloud Developer Associate
 
 **Certifications — miscellaneous:**
-- 🎯 CKAD — Kubernetes
 - 🎯 AI-102 — Azure AI Engineer Associate
+- 🎯 AZ-104 — Azure Administrator Associate
+- 🎯 CKAD — Kubernetes
 
 **Focus areas**: Production AI systems, agent orchestration, MCP integration, cloud-native deployments on Kubernetes
 
