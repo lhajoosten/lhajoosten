@@ -5,14 +5,7 @@ Building intelligent systems that bridge traditional software engineering with m
 
 Graduated in 2025 as Bachelor of Science on Information Technology
 
----
-
-## 🎯 About Me
-- 💼 **Full-stack Software Engineer at Crowe Netherlands** — building an AI-powered platform for accountancy and BI automation
-- 🚀 Creator of **RESOLVE** — Workflow based spec-driven development. Turning ambiguity into structured execution
-- 🚀 Creator of **Ragvise AI** — Personal self-learning platfrom with cross-validation of official microsoft documentation using AI, ML, MCP
-- 🚀 Creator of **MESH** — Distributed domain agents that continuously emit structured, confidence-weighted signals
-- 🧠 Passionate about bringing software engineering to a new level
+🧠 Passionate about bringing software engineering to a new level
 
 ---
 
@@ -54,7 +47,7 @@ Graduated in 2025 as Bachelor of Science on Information Technology
 
 **Certifications — Q2 2026:**
 - 🎯 AZ-900 — Azure Fundamentals | DONE 🚀
-- 🎯 AI-900 — Azure AI Fundamentals
+- 🎯 AI-900 — Azure AI Fundamentals | DONE 🚀
 
 **Certifications — Q4 2026:**
 - 🎯 AI-200 — AI Cloud Developer Associate
