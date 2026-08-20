@@ -1,49 +1,60 @@
-# Luc Joosten
+# Hi, I'm Luc Joosten
 
-**AI Software Engineer** at Crowe Netherlands · NL
+**Full-stack Software Engineer** learning toward **AI Engineer** and **DevOps / Cloud Engineer**, focused on building **AI-powered applications**.
 
-I build software at the intersection of solid engineering and practical AI systems.
-Currently focused on agent workflows, developer experience, and production-ready AI tooling.
+I build intelligent systems that bridge traditional software engineering with modern AI/ML workflows.
 
-Building in public · learning by shipping · open source by default
+Graduated in 2025 with a Bachelor of Science in Information Technology.
 
----
-
-### What I'm working on
-
-- Safe, evidence-driven AI agent workflows
-- Developer experience for AI-assisted engineering
-- A new personal portfolio and open-source tooling from a clean slate
+Passionate about raising the bar for how software is engineered — especially when AI is involved.
 
 ---
 
-### Stack
+## Tech Stack
 
-**Now**
-`Python` · `FastAPI` · `TypeScript` · `React` · `PostgreSQL` · `pgvector` · `Docker` · `Azure`
+### Current Focus
 
-**AI**
-`LangGraph` · `MCP` · `RAG` · agent orchestration
+**Backend:** Python, FastAPI, async/await, Pydantic  
+**AI/ML:** LangChain, LangGraph, Model Context Protocol (MCP), Anthropic Claude  
+**Frontend:** React 19, TypeScript, TanStack (Query, Router, Form, Table)  
+**Data:** PostgreSQL + pgvector, vector databases, RAG implementations  
+**DevOps:** Docker, GitHub Actions, Azure (Container Apps, Bicep)  
+**Tooling:** Oxlint & Oxfmt · Hey-API · Tailwind CSS  
+**IDE:** VS Code · Zed · JetBrains
 
-**Background**
-`.NET` · `C#` · `Angular` · Clean Architecture · CQRS
+### Background
+
+**.NET Stack:** C#, .NET Core, EF Core, Clean Architecture, CQRS  
+**Frontend:** Angular, RxJS  
+**Architecture:** DDD, event-driven systems  
+**Data:** Microsoft SQL Server, data warehousing, big data  
+**DevOps:** GitHub/GitLab · Azure · CI/CD
 
 ---
 
-### Learning path 2026
+## Learning Path 2026
 
-- AZ-900 — done
-- AI-900 — done
-- Next: AI engineering, cloud-native delivery, Kubernetes
+Direction: **AI Engineer** + **DevOps / Cloud Engineer**
+
+**Completed**
+- AZ-900 — Azure Fundamentals
+- AI-900 — Azure AI Fundamentals
+
+**In progress / next**
+- AI-102 — Azure AI Engineer Associate
+- AZ-104 — Azure Administrator Associate
+- CKAD — Kubernetes
+
+**Focus areas:** production AI systems, agent orchestration, MCP integration, cloud-native deployments on Kubernetes
 
 ---
 
-### Connect
+## Connect
 
 - Website: [lucjoosten.nl](https://lucjoosten.nl)
-- LinkedIn: [luc-joosten](https://linkedin.com/in/luc-joosten)
+- LinkedIn: [lhajoosten](https://linkedin.com/in/lhajoosten)
 - GitHub: [lhajoosten](https://github.com/lhajoosten)
 
 ---
 
-*Software engineering excellence, applied to AI systems.*
+*Bringing software engineering excellence to AI-powered systems*
