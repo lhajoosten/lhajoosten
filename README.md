@@ -14,21 +14,25 @@ Passionate about raising the bar for how software is engineered — especially w
 
 ### Current Focus
 
-**Backend:** Python, FastAPI, async/await, Pydantic  
-**AI/ML:** LangChain, LangGraph, Model Context Protocol (MCP), Anthropic Claude  
-**Frontend:** React 19, TypeScript, TanStack (Query, Router, Form, Table)  
-**Data:** PostgreSQL + pgvector, vector databases, RAG implementations  
-**DevOps:** Docker, GitHub Actions, Azure (Container Apps, Bicep)  
-**Tooling:** Oxlint & Oxfmt · Hey-API · Tailwind CSS  
-**IDE:** VS Code · Zed · JetBrains
+| Area | Technologies |
+|------|--------------|
+| Backend | Python, FastAPI, async/await, Pydantic |
+| AI/ML | LangChain, LangGraph, Model Context Protocol (MCP), Anthropic Claude |
+| Frontend | React 19, TypeScript, TanStack (Query, Router, Form, Table) |
+| Data | PostgreSQL + pgvector, vector databases, RAG implementations |
+| DevOps | Docker, GitHub Actions, Azure (Container Apps, Bicep) |
+| Tooling | Oxlint & Oxfmt, Hey-API, Tailwind CSS |
+| IDE | VS Code, Zed, JetBrains |
 
 ### Background
 
-**.NET Stack:** C#, .NET Core, EF Core, Clean Architecture, CQRS  
-**Frontend:** Angular, RxJS  
-**Architecture:** DDD, event-driven systems  
-**Data:** Microsoft SQL Server, data warehousing, big data  
-**DevOps:** GitHub/GitLab · Azure · CI/CD
+| Area | Technologies |
+|------|--------------|
+| .NET | C#, .NET Core, EF Core, Clean Architecture, CQRS |
+| Frontend | Angular, RxJS |
+| Architecture | DDD, event-driven systems |
+| Data | Microsoft SQL Server, data warehousing, big data |
+| DevOps | GitHub/GitLab, Azure, CI/CD |
 
 ---
 
