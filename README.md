@@ -55,7 +55,7 @@ Direction: **AI Engineer** + **DevOps / Cloud Engineer**
 
 ## Connect
 
-- Website: [lucjoosten.nl]([https://lucjoosten.nl](https://personal-website-rho-blush-95.vercel.app/))
+- Website: [lucjoosten.nl](https://personal-website-rho-blush-95.vercel.app/)
 - LinkedIn: [lhajoosten](https://linkedin.com/in/lhajoosten)
 - GitHub: [lhajoosten](https://github.com/lhajoosten)
 
